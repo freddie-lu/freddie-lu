@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freddie-lu
-- 🌱 I’m currently developing a social media application for a tech startup
-- 📫 Don't be shy, let's connect on [LinkedIn!](https://www.linkedin.com/in/frederick-yi-ming-lu/)
+- 🌱 I’m currently developing a social media application for the technology startup Loch Safety
+- 📫 Let's connect on [LinkedIn!](https://www.linkedin.com/in/frederick-yi-ming-lu/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing makes me as happy as seeing my family
